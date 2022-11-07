@@ -1,0 +1,10 @@
+stub\Bookrepo.class
+stub\Book.class
+spy\Bookrepo.class
+com\mockito\MockitoPractice\BookRepo.class
+com\mockito\MockitoPractice\BookService.class
+com\mockito\MockitoPractice\App.class
+com\mockito\MockitoPractice\Book.class
+spy\Book.class
+spy\BookService.class
+stub\BookService.class

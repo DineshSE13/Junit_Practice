@@ -1,0 +1,7 @@
+com\mockito\MockitoPractice\FakeBookRepo.class
+com\mockito\MockitoPractice\SpyTest.class
+com\mockito\MockitoPractice\StubTest.class
+com\mockito\MockitoPractice\Bookrepospy.class
+com\mockito\MockitoPractice\BookRepoStub.class
+com\mockito\MockitoPractice\FakeTest.class
+com\mockito\MockitoPractice\AppTest.class
